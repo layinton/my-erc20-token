@@ -1,4 +1,4 @@
-#MyToken Smart Contract
+# MyToken Smart Contract
 
 ## Overview
 MyToken is a simple smart contract built using remix. It implements a basic token system with features for minting and burning tokens. This contract demonstrates how to manage token balances and a total supply of tokens.
