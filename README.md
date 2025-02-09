@@ -69,3 +69,5 @@ Call the burn function with the address and token amount:
 
 burn(0xYourAddress, 50);
 This will reduce the total supply by 50 tokens and deduct them from the specified address's balance.
+
+Update from my forked Repo and branch
