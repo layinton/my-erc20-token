@@ -62,6 +62,8 @@ mint(0xYourAddress, 100);
 
 This will add 100 tokens to the total supply and assign them to the specified address.
 
+This is now edited.
+
 ## Burn Tokens
 Call the burn function with the address and token amount:
 
